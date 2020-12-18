@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298428244858",
+    "project_id": "home-finders-d5b9d",
+    "storage_bucket": "home-finders-d5b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298428244858:android:69dd430196fe0d22c82cc3",
+        "android_client_info": {
+          "package_name": "com.example.homefinders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298428244858-29r4vo9us2l6ml4ioj5cg8eufn2cuj7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6bZEgekrlfoxQ8xm2vdFPtWvJk6AiFFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298428244858-29r4vo9us2l6ml4ioj5cg8eufn2cuj7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

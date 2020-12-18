@@ -20,6 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello There , Welcome Back"
+        android:textColor="@color/black"
         android:textSize="40sp"
         android:fontFamily="@font/bungee"/>
 
@@ -58,6 +59,7 @@
             android:id="@+id/password"
             app:passwordToggleEnabled="true"
             android:hint="Password"
+
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -88,6 +90,7 @@
             android:layout_marginBottom="5dp"/>
 
         <Button
+            android:id="@+id/new_user"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
